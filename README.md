@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I’m ✨DAvid✨, I’m a software Developer 
+
+Connect with me: https://www.linkedin.com/in/david-arechiga/
 
 <!--
 **DavidArechiga1/DavidArechiga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
