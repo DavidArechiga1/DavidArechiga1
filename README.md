@@ -1,4 +1,4 @@
-## Hi, I’m ✨DAvid✨, I’m a software Developer 
+## Hi, I’m ✨DAvid✨, I’m a Software Engineer
 
 Connect with me: https://www.linkedin.com/in/david-arechiga/
 
